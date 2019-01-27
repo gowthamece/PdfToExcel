@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,7 +12,7 @@ namespace PdfToExcel
     {
         static void Main(string[] args)
         {
-            string pathToPdf = @"C:\EB-Bill\July.pdf";
+            string pathToPdf = System.Environment.CurrentDirectory + "\\July.pdf";
             string pathToExcel = Path.ChangeExtension(pathToPdf, ".xls");
             // Convert PDF file to Excel file 
             SautinSoft.PdfFocus f = new SautinSoft.PdfFocus();
