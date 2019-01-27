@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfToExcel", "PdfToExcel\PdfToExcel.csproj", "{F48A35BA-10C4-4277-B792-E046295F365A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48A35BA-10C4-4277-B792-E046295F365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48A35BA-10C4-4277-B792-E046295F365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48A35BA-10C4-4277-B792-E046295F365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48A35BA-10C4-4277-B792-E046295F365A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91EC8A3-42FC-42B2-9006-B81569F36919}
+	EndGlobalSection
+EndGlobal
