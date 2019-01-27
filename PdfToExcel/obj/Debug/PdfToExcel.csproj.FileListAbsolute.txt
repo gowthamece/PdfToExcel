@@ -1,0 +1,10 @@
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\bin\Debug\PdfToExcel.exe.config
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\bin\Debug\PdfToExcel.exe
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\bin\Debug\PdfToExcel.pdb
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\obj\Debug\PdfToExcel.csprojAssemblyReference.cache
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\obj\Debug\PdfToExcel.csproj.CoreCompileInputs.cache
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\obj\Debug\PdfToExcel.csproj.CopyComplete
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\obj\Debug\PdfToExcel.exe
+C:\Users\gowth\Source\Repos\PdfToExcel\PdfToExcel\obj\Debug\PdfToExcel.pdb
